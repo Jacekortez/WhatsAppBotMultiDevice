@@ -1,9 +1,9 @@
 {
-	"name": "whatsappbot",
+	"name": "JΛϾΞ",
 	"version": "1.0.0",
 	"description": "well...Unique and intreating project",
 	"main": "index.js",
-	"private": true,
+	"private": false,
 	"directories": {
 		"lib": "lib"
 	},
@@ -15,7 +15,7 @@
 		"start": "node index.js"
 	},
 	"keywords": [],
-	"author": "mahesh",
+	"author": "JΛϾΞ",
 	"license": "MIT",
 	"dependencies": {
 		"@adiwajshing/baileys": "github:jacktheboss220/Baileys-New",
